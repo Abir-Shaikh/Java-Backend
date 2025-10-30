@@ -5,7 +5,7 @@ import java.util.function.Function;
 public class Example4Function {
     public static void main(String[] args) {
 
-        //function --> work for u not like predicate
+        //function --> work for u not like predicate give something meaningful
         Function<Integer , Integer> twice = x-> 2 * x;
         Function<Integer , Integer> triple = x->3 * x;
         System.out.println(twice.andThen(triple).apply(100));//same answer
