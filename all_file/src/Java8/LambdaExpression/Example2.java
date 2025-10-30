@@ -1,5 +1,7 @@
 package Java8.LambdaExpression;
 
+import java.util.function.Predicate;
+
 public class Example2 {
     public static void main(String[] args) {
         MathOpn Sumopn = (a , b) -> a + b;
@@ -10,6 +12,8 @@ public class Example2 {
         System.out.println(res);
     }
 }
+
+
 interface MathOpn {
     int opn(int a, int b);
 }
