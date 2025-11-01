@@ -1,4 +1,4 @@
-package Java8;
+package Java8.Collectors;
 
 
 import java.util.Arrays;
