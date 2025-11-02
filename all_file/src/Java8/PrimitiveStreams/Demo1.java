@@ -1,5 +1,6 @@
 package Java8.PrimitiveStreams;
 
+//using primitive data types
 import java.util.Arrays;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
