@@ -1,4 +1,4 @@
----
+----
 title: "Collection Frameworks in JAVA"
 seoTitle: "Explore Java Collection Frameworks"
 seoDescription: "Learn the Java Collection Framework's structure, benefits, and interfaces—List, Map, Queue—for efficient, flexible data management"
